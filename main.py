@@ -1,7 +1,7 @@
 import os
 import sys
 
-WORD = "almost"
+WORD = "almost"  # the ex's word: almost the one, almost enough, almost there
 
 
 def main():
